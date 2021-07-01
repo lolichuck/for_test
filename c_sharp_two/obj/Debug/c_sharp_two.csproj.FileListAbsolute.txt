@@ -1,0 +1,10 @@
+S:\test\Manual\c_sharp_two\bin\Debug\c_sharp_two.exe.config
+S:\test\Manual\c_sharp_two\bin\Debug\c_sharp_two.exe
+S:\test\Manual\c_sharp_two\bin\Debug\c_sharp_two.pdb
+S:\test\Manual\c_sharp_two\bin\Debug\c_sharp_one.dll
+S:\test\Manual\c_sharp_two\bin\Debug\c_sharp_one.pdb
+S:\test\Manual\c_sharp_two\obj\Debug\c_sharp_two.csprojAssemblyReference.cache
+S:\test\Manual\c_sharp_two\obj\Debug\c_sharp_two.csproj.CoreCompileInputs.cache
+S:\test\Manual\c_sharp_two\obj\Debug\c_sharp_two.csproj.CopyComplete
+S:\test\Manual\c_sharp_two\obj\Debug\c_sharp_two.exe
+S:\test\Manual\c_sharp_two\obj\Debug\c_sharp_two.pdb

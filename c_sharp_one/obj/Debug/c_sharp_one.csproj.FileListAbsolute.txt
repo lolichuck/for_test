@@ -1,0 +1,6 @@
+S:\test\Manual\c_sharp_one\bin\Debug\c_sharp_one.dll
+S:\test\Manual\c_sharp_one\bin\Debug\c_sharp_one.pdb
+S:\test\Manual\c_sharp_one\obj\Debug\c_sharp_one.csprojAssemblyReference.cache
+S:\test\Manual\c_sharp_one\obj\Debug\c_sharp_one.csproj.CoreCompileInputs.cache
+S:\test\Manual\c_sharp_one\obj\Debug\c_sharp_one.dll
+S:\test\Manual\c_sharp_one\obj\Debug\c_sharp_one.pdb
